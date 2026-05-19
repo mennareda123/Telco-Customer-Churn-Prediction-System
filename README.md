@@ -1,10 +1,10 @@
 # Telco Customer Churn Prediction System
 
-## 📋 Project Overview
+##  Project Overview
 
 This project is an end-to-end machine learning solution for predicting customer churn in the telecommunications industry. The system analyzes customer behavior, account details, and service subscriptions to identify customers at risk of leaving, enabling proactive retention strategies.
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains **7,043 customer records** with 21 features including:
 - **Demographics**: gender, SeniorCitizen, Partner, Dependents
@@ -13,7 +13,7 @@ The dataset contains **7,043 customer records** with 21 features including:
 - **Charges**: MonthlyCharges, TotalCharges
 - **Target**: Churn (Yes/No)
 
-## 🏗️ Repository Structure
+##  Repository Structure
 
 ```
 telco-churn-prediction/
@@ -35,7 +35,7 @@ telco-churn-prediction/
 ```
 
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
 ```bash
@@ -138,4 +138,4 @@ Developed as part of a data science project for customer churn prediction.
 
 ---
 
-** Note:** Make sure the CSV file (`Telco-Customer-Churn.csv`) is in the same directory when running the training script, or update the file path accordingly.
+**Note:** Make sure the CSV file (`Telco-Customer-Churn.csv`) is in the same directory when running the training script, or update the file path accordingly.
